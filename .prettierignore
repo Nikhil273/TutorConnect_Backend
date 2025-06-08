@@ -1,0 +1,17 @@
+/.vscode
+# Optional eslint cache
+.eslintcache
+/.node_modules
+./dist
+
+*.env
+.env.test
+.env.production
+# Local development files
+.env.local
+# Local production files
+.env.production.local
+# Local test files
+.env.test.local
+# Local staging files
+.env.staging.local
